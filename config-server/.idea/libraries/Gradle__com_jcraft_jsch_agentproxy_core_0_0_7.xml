@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jcraft:jsch.agentproxy.core:0.0.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jcraft/jsch.agentproxy.core/0.0.7/jsch.agentproxy.core-0.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
