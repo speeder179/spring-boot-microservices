@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: com.trilead:trilead-ssh2:1.0.0-build217">
-    <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/com/trilead/trilead-ssh2/1.0.0-build217/trilead-ssh2-1.0.0-build217.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
