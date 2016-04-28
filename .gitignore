@@ -103,8 +103,9 @@ hs_err_pid*
 # .idea/uiDesigner.xml
 
 # Gradle:
-# .idea/gradle.xml
-# .idea/libraries
+.idea/
+build/
+
 
 # Mongo Explorer plugin:
 # .idea/mongoSettings.xml
@@ -138,11 +139,4 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
-
-/whitehole-flow/.checkstyle
-/whitehole_log
-/jdk-8u65-linux-x64.rpm
-/nginx-1.8.1-1.el6.ngx.x86_64.rpm
 /temp
-/whitehole-business/*.gitignore
-/whitehole-task/*.gitignore
