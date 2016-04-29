@@ -22,8 +22,7 @@ apply plugin: 'docker'
 
 
 jar {
-    baseName = 'sample-comments-webservice'
-    version =  '0.0.1'
+    baseName = 'comments-webservice'
 }
 
 repositories { 

@@ -21,8 +21,7 @@ apply plugin: 'docker'
 
 
 jar {
-    baseName = 'sample-config-server'
-    version =  '0.0.1'
+    baseName = 'config-server'
 }
 
 repositories { 

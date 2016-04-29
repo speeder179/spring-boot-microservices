@@ -33,8 +33,7 @@ springBoot {
 }
 
 jar {
-    baseName = 'sample-webservice-registry'
-    version =  '0.0.1'
+    baseName = 'webservice-registry'
 }
 
 repositories { 

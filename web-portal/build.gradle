@@ -22,8 +22,7 @@ apply plugin: 'docker'
 mainClassName = 'com.rohitghatol.microservices.portal.Application'
 
 jar {
-    baseName = 'sample-web-portal'
-    version =  '0.0.1'
+    baseName = 'web-portal'
 }
 
 repositories { 

@@ -21,8 +21,7 @@ apply plugin: 'java'
 apply plugin: 'docker'
 
 jar {
-    baseName = 'sample-api-gateway'
-    version =  '0.0.1'
+    baseName = 'api-gateway'
 }
 
 repositories { 
